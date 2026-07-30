@@ -2,20 +2,15 @@
 
 # 👋 Hi, I'm Warit Pengtham
 
-### Full-Stack Developer · Python · TypeScript · Java/Kotlin · C++/C#
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://warit-pengtham.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warit-pengtham)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeff90267@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **full-stack web applications**
-- 🌱 I'm currently learning **cloud architecture & system design**
+## 🧑‍💻 About Me 
+- 🎓 Studying Science Information technology
+- 🌱 Currently developing a Second-Hand Goods Purchase System
 - 💬 Ask me about **Python, TypeScript, React, Spring Boot**
 - ⚡ Fun fact: I debug better with coffee ☕
 
@@ -87,9 +82,7 @@
 
 | Channel | Link |
 |---------|------|
-| 📧 Email | [your@email.com](mailto:your@email.com) |
-| 💼 LinkedIn | [linkedin.com/in/warit-pengtham](https://linkedin.com/in/warit-pengtham) |
-| 🐦 Twitter / X | [@warit_pengtham](https://twitter.com/warit_pengtham) |
+| 📧 Email | [your@email.com](mailto:jeff90267@gmail.com) |
 
 </div>
 
