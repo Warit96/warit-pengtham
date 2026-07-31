@@ -1,9 +1,12 @@
 <div align="center">
 
+<img width="450" height="400" alt="Screenshot_2567_0714_111442" src="https://github.com/user-attachments/assets/1a10356f-9e0d-4c76-8edb-e9e113c76c4f" />
+
+
+
+
 # 👋 Hi, I'm Warit Pengtham
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeff90267@gmail.com)
-
+ I'm an Information Technology student at Maejo University University
 </div>
 
 ---
@@ -44,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=warit-pengtham&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Warit96&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -54,12 +57,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [🔗 Project Alpha](https://github.com/warit-pengtham/project-alpha) | Full-stack web app with real-time collaboration | TypeScript, React, Node.js, PostgreSQL |
-| [🧠 ML Pipeline](https://github.com/warit-pengtham/ml-pipeline) | End-to-end ML pipeline with REST API serving | Python, FastAPI, scikit-learn, Docker |
-| [⚡ System Monitor](https://github.com/warit-pengtham/system-monitor) | High-performance system monitoring daemon | C++, Kotlin, gRPC, Android |
-| [🔐 API Gateway](https://github.com/warit-pengtham/api-gateway) | Microservices gateway with JWT auth & rate limiting | Kotlin, Spring Boot, Redis |
-
+| Second-Hand Goods Purchase System | Supported Circular Economy principles through a transparent and traceable web-based buying process | `React` `Spring Boot` `MySQL` `Next.js` |
 ---
+
 
 ## 📫 Contact
 
